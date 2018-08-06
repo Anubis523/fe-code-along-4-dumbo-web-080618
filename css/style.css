@@ -86,4 +86,8 @@ figcaption {
   float: left;
 }
 
+.col-3 {
+  background: #ccc;
+}
+
 
